@@ -61,6 +61,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [terms-and-conditions]()
 - [screen-about-the-app](screens/about-the-app)
 - [screen-welcome](screens/welcome)
+- [screen-profile](screens/profile)
 
 # Getting started: Frontend
 
